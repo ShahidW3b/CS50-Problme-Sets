@@ -6,17 +6,16 @@ This repository contains my personal solutions to problem sets from Harvard’s 
 
 ## 📚 Overview
 
-The repository is structured by week, with each folder representing a stage in learning core computer science concepts:
+The repository is structured by week:
 
----
-
+```
 cs50-problem-sets/
 ├── week0/
 ├── week1/
 ├── week2/
 ├── week3/
 ├── week4/
-
+```
 
 ---
 
