@@ -81,7 +81,7 @@ If you are currently taking CS50, please complete the assignments independently.
 👤 Author
 Shahid
 
-GitHub: https://github.com/ShahidW3b 
+GitHub: https://github.com/ShahidW3b <br>
 Portfolio: https://shahid-ecosystem.vercel.app/
 
 ---
